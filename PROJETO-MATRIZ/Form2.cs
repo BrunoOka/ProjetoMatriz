@@ -53,6 +53,20 @@ namespace PROJETO_MATRIZ
                 i++;
             }
         }
+
+        private void btnlimpar_Click(object sender, EventArgs e)
+        {
+            txta.Clear();
+            txtb.Clear();   
+            txtnum.Focus();
+        }
+
+        private void btnvoltar_Click(object sender, EventArgs e)
+        {
+            Hide();
+            frmmenu menu = new frmmenu();
+            menu.Show();
+        }
     }
 }
 

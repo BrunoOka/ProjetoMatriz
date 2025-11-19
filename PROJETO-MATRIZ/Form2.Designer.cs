@@ -34,10 +34,10 @@
             this.lbla = new System.Windows.Forms.Label();
             this.lblb = new System.Windows.Forms.Label();
             this.btncalc = new System.Windows.Forms.Button();
-            this.btnlimpar = new System.Windows.Forms.Button();
             this.btnvoltar = new System.Windows.Forms.Button();
             this.btnadd = new System.Windows.Forms.Button();
             this.txtb = new System.Windows.Forms.TextBox();
+            this.btnlimpar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtnum
@@ -94,15 +94,6 @@
             this.btncalc.Visible = false;
             this.btncalc.Click += new System.EventHandler(this.btncalc_Click);
             // 
-            // btnlimpar
-            // 
-            this.btnlimpar.Location = new System.Drawing.Point(317, 289);
-            this.btnlimpar.Name = "btnlimpar";
-            this.btnlimpar.Size = new System.Drawing.Size(75, 23);
-            this.btnlimpar.TabIndex = 7;
-            this.btnlimpar.Text = "Limpar";
-            this.btnlimpar.UseVisualStyleBackColor = true;
-            // 
             // btnvoltar
             // 
             this.btnvoltar.Location = new System.Drawing.Point(448, 289);
@@ -111,6 +102,7 @@
             this.btnvoltar.TabIndex = 8;
             this.btnvoltar.Text = "Voltar";
             this.btnvoltar.UseVisualStyleBackColor = true;
+            this.btnvoltar.Click += new System.EventHandler(this.btnvoltar_Click);
             // 
             // btnadd
             // 
@@ -130,6 +122,16 @@
             this.txtb.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.txtb.Size = new System.Drawing.Size(100, 131);
             this.txtb.TabIndex = 2;
+            // 
+            // btnlimpar
+            // 
+            this.btnlimpar.Location = new System.Drawing.Point(317, 289);
+            this.btnlimpar.Name = "btnlimpar";
+            this.btnlimpar.Size = new System.Drawing.Size(75, 23);
+            this.btnlimpar.TabIndex = 7;
+            this.btnlimpar.Text = "Limpar";
+            this.btnlimpar.UseVisualStyleBackColor = true;
+            this.btnlimpar.Click += new System.EventHandler(this.btnlimpar_Click);
             // 
             // frm1
             // 
@@ -164,9 +166,9 @@
         private System.Windows.Forms.Label lbla;
         private System.Windows.Forms.Label lblb;
         private System.Windows.Forms.Button btncalc;
-        private System.Windows.Forms.Button btnlimpar;
         private System.Windows.Forms.Button btnvoltar;
         private System.Windows.Forms.Button btnadd;
         private System.Windows.Forms.TextBox txtb;
+        private System.Windows.Forms.Button btnlimpar;
     }
 }

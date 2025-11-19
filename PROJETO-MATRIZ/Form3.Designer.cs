@@ -38,7 +38,7 @@
             this.ControlBox = false;
             this.Name = "frm3";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "3";
+            this.Text = "2";
             this.ResumeLayout(false);
 
         }
