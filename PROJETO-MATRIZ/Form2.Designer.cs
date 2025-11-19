@@ -52,6 +52,7 @@
             this.txta.Location = new System.Drawing.Point(349, 75);
             this.txta.Multiline = true;
             this.txta.Name = "txta";
+            this.txta.ReadOnly = true;
             this.txta.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.txta.Size = new System.Drawing.Size(100, 131);
             this.txta.TabIndex = 1;
@@ -119,6 +120,7 @@
             this.txtb.Location = new System.Drawing.Point(510, 75);
             this.txtb.Multiline = true;
             this.txtb.Name = "txtb";
+            this.txtb.ReadOnly = true;
             this.txtb.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.txtb.Size = new System.Drawing.Size(100, 131);
             this.txtb.TabIndex = 2;
