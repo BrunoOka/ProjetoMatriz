@@ -60,7 +60,9 @@ namespace PROJETO_MATRIZ
         {
             txta.Clear();
             txtb.Clear();
+            txtnum.Clear();
             txtnum.Focus();
+            btncalcular.Hide();
         }
 
         private void btnvoltar_Click(object sender, EventArgs e)

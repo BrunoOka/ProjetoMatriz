@@ -39,3 +39,17 @@ C:\Users\1ds\Downloads\ProjetoMatriz\PROJETO-MATRIZ\obj\Debug\PROJETO-MATRIZ.csp
 C:\Users\1ds\Downloads\ProjetoMatriz\PROJETO-MATRIZ\obj\Debug\PROJETO-MATRIZ.csproj.CoreCompileInputs.cache
 C:\Users\1ds\Downloads\ProjetoMatriz\PROJETO-MATRIZ\obj\Debug\PROJETO-MATRIZ.exe
 C:\Users\1ds\Downloads\ProjetoMatriz\PROJETO-MATRIZ\obj\Debug\PROJETO-MATRIZ.pdb
+C:\Users\bruno\Downloads\ProjetoMatriz\PROJETO-MATRIZ\bin\Debug\PROJETO-MATRIZ.exe.config
+C:\Users\bruno\Downloads\ProjetoMatriz\PROJETO-MATRIZ\bin\Debug\PROJETO-MATRIZ.exe
+C:\Users\bruno\Downloads\ProjetoMatriz\PROJETO-MATRIZ\bin\Debug\PROJETO-MATRIZ.pdb
+C:\Users\bruno\Downloads\ProjetoMatriz\PROJETO-MATRIZ\obj\Debug\PROJETO-MATRIZ.csproj.AssemblyReference.cache
+C:\Users\bruno\Downloads\ProjetoMatriz\PROJETO-MATRIZ\obj\Debug\PROJETO-MATRIZ.exe.config
+C:\Users\bruno\Downloads\ProjetoMatriz\PROJETO-MATRIZ\obj\Debug\PROJETO_MATRIZ.frmmenu.resources
+C:\Users\bruno\Downloads\ProjetoMatriz\PROJETO-MATRIZ\obj\Debug\PROJETO_MATRIZ.frm1.resources
+C:\Users\bruno\Downloads\ProjetoMatriz\PROJETO-MATRIZ\obj\Debug\PROJETO_MATRIZ.frm3.resources
+C:\Users\bruno\Downloads\ProjetoMatriz\PROJETO-MATRIZ\obj\Debug\PROJETO_MATRIZ.frm4.resources
+C:\Users\bruno\Downloads\ProjetoMatriz\PROJETO-MATRIZ\obj\Debug\PROJETO_MATRIZ.Properties.Resources.resources
+C:\Users\bruno\Downloads\ProjetoMatriz\PROJETO-MATRIZ\obj\Debug\PROJETO-MATRIZ.csproj.GenerateResource.cache
+C:\Users\bruno\Downloads\ProjetoMatriz\PROJETO-MATRIZ\obj\Debug\PROJETO-MATRIZ.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Downloads\ProjetoMatriz\PROJETO-MATRIZ\obj\Debug\PROJETO-MATRIZ.exe
+C:\Users\bruno\Downloads\ProjetoMatriz\PROJETO-MATRIZ\obj\Debug\PROJETO-MATRIZ.pdb

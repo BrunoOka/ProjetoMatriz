@@ -56,6 +56,7 @@
             this.txtpesquisa.Name = "txtpesquisa";
             this.txtpesquisa.Size = new System.Drawing.Size(100, 20);
             this.txtpesquisa.TabIndex = 1;
+            this.txtpesquisa.Visible = false;
             // 
             // txta
             // 
@@ -94,6 +95,7 @@
             this.lblpesquisa.Size = new System.Drawing.Size(49, 13);
             this.lblpesquisa.TabIndex = 5;
             this.lblpesquisa.Text = "pesquisa";
+            this.lblpesquisa.Visible = false;
             // 
             // lbla
             // 
@@ -142,6 +144,7 @@
             this.btnlimpar.TabIndex = 10;
             this.btnlimpar.Text = "limpar";
             this.btnlimpar.UseVisualStyleBackColor = true;
+            this.btnlimpar.Click += new System.EventHandler(this.btnlimpar_Click);
             // 
             // btnsair
             // 
@@ -151,6 +154,7 @@
             this.btnsair.TabIndex = 11;
             this.btnsair.Text = "sair";
             this.btnsair.UseVisualStyleBackColor = true;
+            this.btnsair.Click += new System.EventHandler(this.btnsair_Click);
             // 
             // btncalcular
             // 

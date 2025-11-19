@@ -57,8 +57,10 @@ namespace PROJETO_MATRIZ
         private void btnlimpar_Click(object sender, EventArgs e)
         {
             txta.Clear();
-            txtb.Clear();   
+            txtb.Clear();
+            txtnum.Clear();
             txtnum.Focus();
+            btncalc.Hide();
         }
 
         private void btnvoltar_Click(object sender, EventArgs e)
