@@ -22,7 +22,7 @@ namespace PROJETO_MATRIZ
         int i = 0;
         private void btnadd_Click(object sender, EventArgs e)
         {
-            if (i < 2)
+            if (i < 30)
             {
                 num[i] = Convert.ToDouble(txtnum.Text);
                 txta.Text += Convert.ToString(num[i]) + Environment.NewLine;
@@ -44,7 +44,7 @@ namespace PROJETO_MATRIZ
         {
             int valor = Convert.ToInt32(txtpesquisa.Text);
             bool encontrado = false;
-            for (int i = 0; i < 2; i++) { 
+            for (int i = 0; i < 30; i++) { 
             if (cubo[i] == valor)
             {
                 encontrado = true;
@@ -62,7 +62,7 @@ namespace PROJETO_MATRIZ
 
         private void btncalcular_Click(object sender, EventArgs e)
         {
-            while (i < 2)
+            while (i < 30)
             {
                 cubo[i] = Math.Pow(num[i], 3);
                 txtb.Text += cubo[i] + Environment.NewLine;
